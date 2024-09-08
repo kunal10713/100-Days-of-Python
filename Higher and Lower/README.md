@@ -12,9 +12,13 @@ This project is a fun command-line game where the player has to guess who has mo
 
 ### Example Output
 
-Guess Who has more followers Compare A: Selena Gomez, a Musician, from USA VS Against B: Cristiano Ronaldo, a Footballer, from Portugal Who has more followers? Type 'A' or 'B': A You're right! Current Score: 1
+Guess Who has more followers:
 
-markdown
+Compare A: Selena Gomez, a Musician, from USA VS Against B: 
+
+Cristiano Ronaldo, a Footballer, from Portugal Who has more followers? 
+
+Type 'A' or 'B': A You're right! Current Score: 1
 
 ## Prerequisites
 
