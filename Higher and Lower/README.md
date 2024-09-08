@@ -27,7 +27,7 @@ To start the game, simply run the following command:
 python higher_lower.py
 
 
-Features
-  Randomly selects two figures from a dataset.
-  Keeps track of your score.
-  Displays your final score when the game ends.
+## Features
+1. Randomly selects two figures from a dataset.
+2. Keeps track of your score.
+3. Displays your final score when the game ends.
